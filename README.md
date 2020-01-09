@@ -1,0 +1,1 @@
+### Simple TF project that creates two AWS EC2 instances in two different AWS regions.
